@@ -1,0 +1,7 @@
+.item{
+    display: grid;
+    grid-template-columns: 20% 12%;
+    column-gap: 2%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
